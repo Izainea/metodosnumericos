@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6681dc02-ce16-4f06-b812-982d9085db76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Introducción al lenguaje Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/files/Introducción al lenguaje Python.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Codificación/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,7 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1613000139447</updated>
       <workItem from="1613000141950" duration="457000" />
-      <workItem from="1613000826490" duration="18238000" />
+      <workItem from="1613000826490" duration="19124000" />
+      <workItem from="1613441147037" duration="63000" />
     </task>
     <servers />
   </component>
@@ -75,5 +77,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
