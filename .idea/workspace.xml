@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6681dc02-ce16-4f06-b812-982d9085db76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/.ipynb_checkpoints/Introducción al lenguaje Python-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/files/.ipynb_checkpoints/Introducción al lenguaje Python-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Clases y Módulos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/files/Clases y Módulos.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Funciones y paquetes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/files/Funciones y paquetes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Listas y arreglos de Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/files/Listas y arreglos de Python.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Mi primer cuaderno.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/files/Mi primer cuaderno.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Ejercicios - Entrega 10 de Marzo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/files/Ejercicios - Entrega 10 de Marzo.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +62,7 @@
       <workItem from="1613000141950" duration="457000" />
       <workItem from="1613000826490" duration="19124000" />
       <workItem from="1613441147037" duration="1061000" />
-      <workItem from="1614809455729" duration="1266000" />
+      <workItem from="1614809455729" duration="2557000" />
     </task>
     <servers />
   </component>
